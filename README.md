@@ -1,4 +1,22 @@
 # go-aliyundrive-webdav for openwrt
+
+<div align="center">
+<a href="/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/jerrykuku/luci-app-go-aliyundrive-webdav?style=flat-square" alt="">
+  </a><a href="https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="">
+  </a><a href="hhttps://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/issues/new">
+    <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
+  </a><a href="https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/releases">
+    <img src="https://img.shields.io/badge/release-v1.0.1-blue.svg?style=flat-square">
+  </a><a href="hhttps://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/releases">
+    <img src="https://img.shields.io/github/downloads/jerrykuku/luci-app-go-aliyundrive-webdav/total?style=flat-square">
+  </a><a href="https://t.me/jerryk6">
+    <img src="https://img.shields.io/badge/Contact-telegram-blue?style=flat-square">
+  </a>  
+</div>
+
+
 # 介绍
 本项目实现了阿里云盘的webdav协议，只需要简单的配置一下，就可以让阿里云盘变身为webdav协议的文件服务器。
 基于此，你可以把阿里云盘挂载为Windows、Linux、Mac系统的磁盘，可以通过NAS系统做文件管理或文件同步，更多玩法等你挖掘
