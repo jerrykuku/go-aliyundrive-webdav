@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=go-aliyundrive-webdav
-PKG_VERSION:=v1.0.1
+PKG_VERSION:=v1.0.2
 PKG_RELEASE:=1
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 
@@ -9,10 +9,10 @@ PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
 #PKG_SOURCE_URL:=https://codeload.github.com/LinkLeong/go-aliyun-webdav/tar.gz/$(PKG_VERSION)?
 #PKG_HASH:=f18f4f7e9bad5fa45dc21b3f5561a6671dcf75c51f0ef577c99d6f8f4f05a009
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/LinkLeong/go-aliyun-webdav.git
-PKG_SOURCE_DATE:=2021-10-02
-PKG_SOURCE_VERSION:=d4d09994edd0ebbee8764ce27e1f9bdd02e8fb23
-PKG_MIRROR_HASH:=22a3490a4daa35c7a458b2228ca8fa3a3854fc0fac391251d1fdea3d7463c614
+PKG_SOURCE_URL:=https://github.com/LinkLeong/go-aliyundrive-webdav.git
+PKG_SOURCE_DATE:=2021-10-11
+PKG_SOURCE_VERSION:=94bfaafa4a9438aec190fb3719d5160b8003f361
+PKG_MIRROR_HASH:=b8cdc1054e3a2d9bc97cf6047508d6194d570e2f3187dfab9e9cc8e59325e89e
 
 PKG_MAINTAINER:=Link Liang <a624669980@gmail.com>
 PKG_LICENSE:=APACHE V2
