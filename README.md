@@ -3,14 +3,14 @@
 <div align="center">
 <a href="/LICENSE.txt">
     <img src="https://img.shields.io/github/license/jerrykuku/luci-app-go-aliyundrive-webdav?style=flat-square" alt="">
-  </a><a href="https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/pulls">
+  </a><a href="https://github.com/jerrykuku/go-aliyundrive-webdav/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="">
-  </a><a href="hhttps://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/issues/new">
+  </a><a href="hhttps://github.com/jerrykuku/go-aliyundrive-webdav/issues/new">
     <img src="https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat-square">
-  </a><a href="https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/releases">
-    <img src="https://img.shields.io/badge/release-v1.0.1-blue.svg?style=flat-square">
-  </a><a href="hhttps://github.com/jerrykuku/luci-app-go-aliyundrive-webdav/releases">
-    <img src="https://img.shields.io/github/downloads/jerrykuku/luci-app-go-aliyundrive-webdav/total?style=flat-square">
+  </a><a href="https://github.com/jerrykuku/go-aliyundrive-webdav/releases">
+    <img src="https://img.shields.io/github/release/jerrykuku/go-aliyundrive-webdav.svg?style=flat-square">
+  </a><a href="hhttps://github.com/jerrykuku/go-aliyundrive-webdav/releases">
+    <img src="https://img.shields.io/github/downloads/jerrykuku/go-aliyundrive-webdav/total?style=flat-square">
   </a><a href="https://t.me/jerryk6">
     <img src="https://img.shields.io/badge/Contact-telegram-blue?style=flat-square">
   </a>  
